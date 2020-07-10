@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="engoval" width="50px" height="50px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-230.000000, -570.000000)">
+            <g id="Group-2" transform="translate(226.000000, 567.000000)">
+                <path d="M25,43.5470191 C35.4934102,43.5470191 44,35.0404294 44,24.5470191 C44,14.0536089 35.4934102,5.54701914 25,5.54701914 C14.5065898,5.54701914 6,14.0536089 6,24.5470191" id="Oval-5-Copy-2" stroke="#FFFFFF" transform="translate(25.000000, 24.547019) rotate(291.000000) translate(-25.000000, -24.547019) "></path>
+                <path d="M26,44 C36.4934102,44 45,35.4934102 45,25 C45,14.5065898 36.4934102,6 26,6 C15.5065898,6 7,14.5065898 7,25" id="Oval-5-Copy-2" stroke="#FFEA00" stroke-width="5" transform="translate(26.000000, 25.000000) rotate(181.000000) translate(-26.000000, -25.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
